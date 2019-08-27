@@ -1,5 +1,5 @@
 # Data website C.R.U.D (Create, Retrieve, Update and Delete)
-Database management system for afamily that needs the ability to privately 
+Database management system for a family that needs the ability to privately 
 share audio messages and documents relating to care of an elderly parent.
 
 ## Languages
